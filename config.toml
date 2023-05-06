@@ -1,0 +1,4 @@
+baseURL = 'https://frojdholmapps.github.io/'
+languageCode = 'en-us'
+title = 'FrojdholmApps'
+theme = 'nostyleplease'
